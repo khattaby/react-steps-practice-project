@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-steps-practice-project/static/css/main.29b0e223.css",
+    "main.js": "/react-steps-practice-project/static/js/main.c51d08fa.js",
+    "index.html": "/react-steps-practice-project/index.html",
+    "main.29b0e223.css.map": "/react-steps-practice-project/static/css/main.29b0e223.css.map",
+    "main.c51d08fa.js.map": "/react-steps-practice-project/static/js/main.c51d08fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29b0e223.css",
+    "static/js/main.c51d08fa.js"
+  ]
+}
